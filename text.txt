@@ -1,1 +1,1 @@
-Varibale working 
+Loops aare not  working 
